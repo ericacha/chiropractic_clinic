@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Active for mobile view -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Alameda Family Chiropractic</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <!-- browswer icon -->
+    <link rel="shortcut icon" href="images/avatar-icon.png" type="image/x-icon" />
+
+</head>
+
+<body>
+    <div id="wrapper" class="container">
+        <!-- Header page -->
+        <!--#include file="header.shtml" -->
+
+
+        <section class="main-content">
+
+            <div class="col-sm-9 article-page-left-side">
+                <h2 class="entry-title"> Location | Contact</h2>
+                <br>
+                <script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:450px;width:615px;'><div id='gmap_canvas' style='height:450px;width:615px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://embedmaps.org/'> .</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=2645b63fd3efe43ef115f597b752e4cc47506bb1'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:12,center:new google.maps.LatLng(45.5481029,-122.61740459999999),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(45.5481029,-122.61740459999999)});infowindow = new google.maps.InfoWindow({content:'<strong>Alemeda Family Chiropractic</strong><br>4410 NE Fremont Street <br>97213 Portland<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+
+                <br>
+
+                <img src="images/beaverton-chiropractor-patient.jpg">
+
+                <hr class="bottom-page">
+            </div>
+            <div class="col-sm-3 article-page-right-side">
+                Dr. Ann E. Wilson <br>
+                4410 NE Fremont Street <br>
+                Portland, Oregon 97213 <br>
+                503-249-0114 <br>
+                503-249-5638 FAX <br>
+                Email Us
+
+                <hr>
+
+                Office Hours:<br>
+                Tues: 8:30 am - 6:00 pm<br>
+                Wed: 8:30 am - 6:00 pm<br>
+                Fri: 8:30 am - 6:00 pm<br>
+                <br>
+                Mon and Thurs: By Appointment
+
+                <hr>
+
+
+
+            </div>
+
+
+        </section>
+
+  </div>
+
+
+  <!-- Footer page -->
+<!--#include file="footer.shtml" -->
+
+
+
+    <br>  <br>
+
+    <!-- Need both of these js files to make toggle for dropdown menu to work as screen shrinks -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

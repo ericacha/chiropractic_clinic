@@ -1,0 +1,42 @@
+<header id="logo-menu-header">
+    <div class="container">
+        <div class="col-sm-7">
+            <a href="/alamedafamilychiro/index.shtml"><img src="images/alameda-family-chiro-logo.png"></a>
+        </div>
+
+        <div class="col-sm-4 contact-details">
+            <ul>
+                <li>503-249-0114</li>
+                <li><a href="mailto:email@email.com">Email Us</a></li>
+                <li><a href="https://www.google.com/maps/dir/''/alameda+family+chiropractic/@45.5480916,-122.6875368,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x5495a6d314534489:0x254cabbeb52356b9!2m2!1d-122.617497!2d45.548113"> Map to Office</a> </li>
+            </ul>
+        </div>
+    </div>
+        <div class="col-sm-12">
+            <div class="navbar navbar-inverse" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    </button>
+                </div>
+
+                <div class="navRight">
+                    <div class="navbar-collapse collapse" style="height: 0px;">
+                        <ul class="nav navbar-nav">
+                            <li><a href="/alamedafamilychiro/index.shtml">Home</a></li>
+                            <li><a href="/alamedafamilychiro/about.shtml">About</a></li>
+                            <li><a href="/alamedafamilychiro/my-office.shtml">My Office</a></li>
+                            <li><a href="/alamedafamilychiro/injury.shtml">Injury</a></li>
+                            <li><a href="/alamedafamilychiro/what-patients-say.shtml">What Patients Say</a></li>
+                            <li><a href="/alamedafamilychiro/location-contact.shtml">Location | Contact</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+</header>

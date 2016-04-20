@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Active for mobile view -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Alameda Family Chiropractic</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <!-- browswer icon -->
+    <link rel="shortcut icon" href="images/avatar-icon.png" type="image/x-icon" />
+
+</head>
+
+<body>
+    <div id="wrapper" class="container">
+        <!-- Header page -->
+        <!--#include file="header.shtml" -->
+
+
+        <section class="main-content">
+
+            <div class="col-sm-12 article-page">
+                <h2 class="entry-title">Injury</h2>
+                <br>
+                <p>Have you been injured in a motor vehicle accident? Let me help.
+                I truly understand how ‘upside down and inside out’ you feel after such a trauma. I have walked in your shoes. Having been badly injured in motor vehicle crashes myself, I know how important it is to receive comprehensive, gentle and effective chiropractic care. </p>
+
+                <p>I have extensive post-doctoral training and experience treating accident patients. Should your injuries require an even more comprehensive work-up, I work closely with a network of skilled and knowledgeable practitioners in other specialties such as X-ray and MRI imaging, neurology, orthopedics, neurosurgery and massage.</p>
+
+                <p>Who better to work with than a skilled and compassionate physician who has walked that path from pain to recovery? I would be honored to guide you along that same path to your own recovery. </p>
+
+                <p>Where to start<br>
+                After a motor vehicle collision injury, you may come directly to my office. You don’t need a referral. We will help you with all of the paperwork that is required to open your Personal Injury claim and to protect your right to receive the care you need to return to pre-injury health status. And there is no out-of-pocket expense to you.</p>
+
+                <p>I understand how important it is that the documentation and reports I prepare for your auto insurance company are clear, precise and comprehensive. I’ve been through this myself so I know the process from the patient, physician and insurance/legal perspectives. You can be confident that we will do what it takes to make this experience as smooth and simple as possible so that your focus can be on getting better. </p>
+
+                <hr>
+
+                <p>“I feel so fortunate to have Dr. Ann as my care provider after my motor vehicle accident. Not only is she amazing at her craft, she is a true advocate for her patients. She has helped me navigate the murky waters of the MVA process all the while helping to restore my body to pre-accident optimal health and mobility. As an endurance athlete, this is all the more important because activity is an integral part of my daily life, goals and aspirations. Dr. Ann understands the unique needs of athletes, in that we still want to be active during our recovery. She is great at providing solutions to keep up my endurance and activity level while still allowing my body to rest. And when she tells me to really rest and take it easy, I know she’s serious and I follow her instruction. Dr. Ann is very thorough and asks excellent questions so that I can really pinpoint what’s going on with my body. This is a benefit to me as the patient and to my insurance claim since everyone is provided with the thorough documentation needed regarding my care. I am blessed to have Dr. Ann as my chiropractor and have recommended her to friends and family so that they too can benefit from her amazing gift as a Chiropractor.” <br>
+                — Suzanne S.</p>
+
+                <hr>
+
+                <p>“Dr. Ann Wilson did a wonderful job of managing my emotional and physical needs after I was in a motor vehicle accident. She provided excellent chiropractic care helping me regain the use of my damaged left side. She coordinated additional medical services including testing and x-rays. Dr. Ann connected me with a wonderful physical therapist, a great psychologist, as well as a massage therapist, all of whom I have continued using as needed. She guided me through the insurance maze as well as helping me find legal counsel. Dr. Wilson has a warm and caring personality that extends into her medical practice. I have continued, after many years, to use Dr. Ann Wilson as a resource for both my emotional and physical well-being. I treasure her guidance. “ <br>
+                — Aretta C. </p>
+
+            </div>
+
+
+        </section>
+          <hr class="bottom-page">
+  </div>
+
+
+
+  <!-- Footer page -->
+<!--#include file="footer.shtml" -->
+
+
+
+    <br>  <br>
+
+    <!-- Need both of these js files to make toggle for dropdown menu to work as screen shrinks -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

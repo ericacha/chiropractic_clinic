@@ -1,0 +1,36 @@
+<footer>
+    <div class="container">
+        <div class="col-one col-xs-12 col-sm-3">
+            <ul>
+              <li><a href="/alamedafamilychiro/index.shtml">Home</a></li>
+              <li><a href="/alamedafamilychiro/about.shtml">About</a></li>
+              <li><a href="/alamedafamilychiro/my-office.shtml">My Office</a></li>
+              <li><a href="/alamedafamilychiro/injury.shtml">Injury</a></li>
+              <li><a href="/alamedafamilychiro/what-patients-say.shtml">What Patients Say</a></li>
+              <li><a href="/alamedafamilychiro/location-contact.shtml">Location | Contact</a></li>
+            </ul>
+        </div>
+        <div class="col-two col-xs-12 col-sm-3">
+              <h3>Office Hours</h3><br>
+              Tues: 8:30 am - 6:00 pm  <br>
+              Wed: 8:30 am - 6:00 pm  <br>
+              Fri: 8:30 am - 6:00 pm  <br>
+              <br>
+              Mon and Thurs: By Appointment
+        </div>
+        <div class="col-three col-xs-12 col-sm-3">
+            <h3>Contact Us</h3><br>
+            Dr. Ann E. Wilson <br>
+            503-249-0114 <br>
+            503-249-5638 FAX <br>
+        </div>
+        <div class="col-four col-xs-12 col-sm-3">
+            <h3>Location</h3><br>
+            4410 NE Fremont Street <br>
+            Portland, Oregon 97213 <br>
+            Map to Office
+        </div>
+
+        <div id="copyright">© Alameda Family Chiropractic</div>
+    </div>
+</footer>

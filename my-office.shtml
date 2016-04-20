@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Active for mobile view -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Alameda Family Chiropractic</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <!-- browswer icon -->
+    <link rel="shortcut icon" href="images/avatar-icon.png" type="image/x-icon" />
+
+</head>
+
+<body>
+    <div id="wrapper" class="container">
+        <!-- Header page -->
+        <!--#include file="header.shtml" -->
+
+
+        <section class="main-content">
+
+            <div class="col-sm-12 article-my-office">
+                <h2 class="entry-title">My Office</h2>
+                <br>
+                <div class="caption">
+                    <img src="images/office-room.jpg">
+                    <br>
+                    <p class="caption-text">Treatment room</p>
+
+                </div>
+                <p>What you can expect<br>
+
+                Your first visit to my NE Portland chiropractic office begins with a thorough history and examination that helps me understand your health concerns and problems. Each patient is like a jigsaw puzzle. Some puzzles are quite simple—just a few pieces that reveal a simple problem and a very straightforward solution. Some puzzles are more complex—500 pieces, 1500 pieces—and may take longer to reveal the problem that we seek to understand and remedy.</p>
+
+                <p>Regardless of the size and complexity of your unique “puzzle”, we will work together as a team to discover the cause of your pain or discomfort and to create an effective treatment plan.</p>
+
+                <p>Treatments<br>
+
+                My treatments are thoughtful and comprehensive. I begin with comfortable and effective pre-adjustment physiotherapies such as electro muscle stimulation, Leander table stretching, moist heat, and myofascial massage to prepare you for gentle manual adjustments and/or ArthroStim percussive adjustments.</p>
+
+
+
+
+                <div class="caption">
+                    <img src="images/chiropractic-technique.jpg">
+                    <br>
+                    <p class="caption-text"> AquaMed HydroMassage Table</p>
+                </div>
+
+                <p>AquaMed Hydrotherapy<br>
+
+                All treatments lead to a delightful and therapeutic rest on my AquaMed Hydrotherapy Massage Table, a heavenly piece of therapy equipment that my patients consider the ultimate ‘treat’ at the end of each visit. It is the only one of its kind in any Oregon chiropractic office. Some of the many benefits of AquaMed hydrotherapy are: <br>
+
+                •&nbsp;&nbsp;Relaxes and tones muscles <br>
+                •&nbsp;&nbsp;Increases circulation<br>
+                •&nbsp;&nbsp; Reduces pain by increasing endorphins<br>
+                •&nbsp;&nbsp;Reduces inflammation<br>
+                •&nbsp;&nbsp;Reduces swelling by increasing lymphatic circulation <br>
+                •&nbsp;&nbsp;Calms post-injury “fight or flight” stress reaction
+                </p>
+
+
+
+
+            </div>
+
+
+        </section>
+          <hr class="bottom-page">
+  </div>
+
+
+
+  <!-- Footer page -->
+<!--#include file="footer.shtml" -->
+
+
+
+    <br>  <br>
+
+    <!-- Need both of these js files to make toggle for dropdown menu to work as screen shrinks -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

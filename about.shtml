@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Active for mobile view -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Alameda Family Chiropractic</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <!-- browswer icon -->
+    <link rel="shortcut icon" href="images/avatar-icon.png" type="image/x-icon" />
+
+</head>
+
+<body>
+    <div id="wrapper" class="container">
+        <!-- Header page -->
+        <!--#include file="header.shtml" -->
+
+
+        <section class="main-content">
+
+            <div class="col-sm-12 article-page">
+                <h2 class="entry-title">About </h2>
+                <br>
+                <img src="images/about-dr-eddy-chiropractor.jpg">
+                <p>Ann E. Wilson, D.C. <br>
+
+                My patients affectionately call me Dr. Ann. They appreciate that I inspire them to trust their body’s ability to heal and to understand the underlying root of their condition. I offer them the specific home care tools they need to complement the treatment I provide. Having been a teacher prior to becoming a chiropractor, I am always in ‘teaching mode’ with my patients. As they say, “Knowledge is power.”</p>
+
+                <p>My knowledge and skills as a physician were honed at Western States Chiropractic College (now known as University of Western States). Shortly after graduation, I was invited back to teach at the University of Western States. In this position I supervised senior level chiropractic students during their final year of internship.</p>
+
+                <p>My family of patients <br>
+
+                I have been blessed with a wonderful family of patients who value my comprehensive and gentle approach to treatment. This has been the cornerstone of my practice. My patients regularly refer their family members, co-workers and friends to me. I offer a variety of treatments that fit each patient’s condition and need. For those who prefer not to be “popped”, I offer comfortable and effective ArthroStim and VibraCussor treatment. </p>
+
+
+
+            </div>
+            <div class="col-sm-12">
+                <p>My patients will tell you:<br>
+
+
+                        •&nbsp;&nbsp;I am a good listener, I do not give up, and I do not keep my patients waiting. <br>
+                        •&nbsp;&nbsp;I make every effort to schedule you as soon as possible—sometimes the same day.<br>
+                        •&nbsp;&nbsp;I explain everything I do BEFORE I do it. (I am an old teacher after all.)<br>
+                        •&nbsp;&nbsp;I have exceptional tools and equipment that set my office apart from most chiropractic offices.<br>
+                        •&nbsp;&nbsp;I take most insurance plans. We will work with you to obtain care if you have no insurance.
+                </p>
+                <p>My wish for you <br>
+                My goal is always to find the shortest and most effective path to help you feel good—even great again—and then teach you a thing or two about how to take care of yourself in order to avoid chronic, debilitating conditions that rob you of your quality of life.</p>
+
+            </div>
+
+
+        </section>
+          <hr class="bottom-page">
+  </div>
+
+
+
+  <!-- Footer page -->
+<!--#include file="footer.shtml" -->
+
+
+
+    <br>  <br>
+
+    <!-- Need both of these js files to make toggle for dropdown menu to work as screen shrinks -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

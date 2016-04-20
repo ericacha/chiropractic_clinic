@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Active for mobile view -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Alameda Family Chiropractic</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <!-- browswer icon -->
+    <link rel="shortcut icon" href="images/avatar-icon.png" type="image/x-icon" />
+
+</head>
+
+<body>
+    <div id="wrapper" class="container">
+        <!-- Header page -->
+        <!--#include file="header.shtml" -->
+
+
+        <section class="main-content">
+
+            <div class="col-sm-12 article-page">
+                <h2 class="entry-title">What Patients Say</h2>
+                <br>
+                <img src="images/patients-say.jpg">
+                <p>What My Patients Want You To Know About Me: </p>
+
+                <p>“We love Dr. Wilson! Our whole family has seen her. I appreciate how knowledgeable she is and how comfortable and confident I feel with her treatments and plans. As a nurse I appreciate seeing a physician who can provide holistic care that also makes sense. I like that she believes in wellness where medications and surgery is not always the go-to answer. She encourages active participation in getting well. I never feel rushed to get better and when you’re unexpectedly hurting, she and her office manager always manage to find a way to see you. I am so pleased to have found such a capable, rock solid chiropractor.” <br>
+                — Heather D.</p>
+
+                <hr>
+
+                <p>“Several years ago, Dr. Wilson found an abnormality in my neck and sent me to an imaging service. Long story short, I was in a surgery suite within a week to remove my thyroid gland that was enlarged and was pressing on my windpipe, which was more than 50% closed. This is an example of how Dr. Wilson goes above and beyond for her patients. Thanks Doctor Wilson!” <br>
+                — Peg Z.</p>
+
+                <hr>
+
+                <p>“When I first met Dr. Ann, she made me feel at ease and was very attentive and thorough in explaining everything. I sincerely appreciated her explanations whether it was the tools that she used or the way she would re-align me. In the beginning I was in an extreme amount of pain, but after seeing Dr. Ann on a regular basis I felt a lot better.
+                I enjoyed the way Dr. Ann used natural remedies. I loved the KinesioTape Dr. Ann used on me because of the really effective way she placed it. Most of all I felt that I could really trust Dr. Ann and I would recommend her to anyone. I sincerely thank her from the bottom of my heart.” <br>
+                — Eliza L.</p>
+
+                <hr>
+
+                <p>“My first fifteen years of Dr. Ann Wilson’s regular maintenance care made me think her methods couldn’t get any better; then in the last couple of years she incorporated additional healing modalities, resulting in even stronger benefits! Before I saw Dr. Wilson I was in a lot of pain from severe back, knee, ankle, and Achilles heel problems. Now I seldom feel these conditions. When they occasionally try to flare up, her methods always eliminate them. An auto accident nine years ago left an intense permanent neck injury with pain that went into my head, shoulders, chest and upper back, but now it is only a sometimes-annoyance. Be a participant in your own healing with ongoing treatment from Dr. Wilson, and you too will rate her five stars for great health care, wisdom, skills, compassion and professionalism.” <br>
+                  — Michael F. </p>
+
+                <hr>
+
+                <p>“When I was referred to see Dr. Wilson, at first I felt nervous about being in the hands of a chiropractor again, because of my previous experiences of receiving treatment from other chiropractors. However, from the first meeting with Dr. Ann I felt very confident and knew that I was in safe and caring hands. Upon entering the clinic Dr. performed a complete examination and we discussed my injuries and concerns. I have received several adjustments since then and had the pleasure of trying out some of Dr. Ann’s amazing equipment, including the AquaMed Hydro Massage bed which worked wonders for my spine and helping my muscles to relax. Dr. Ann has a unique approach to her work and to her patients. Her gentle but precise touch has guided me back into alignment in more than a physical sense. Visiting the clinic is always a pleasurable experience. The environment of the clinic is calming and I have never had to wait for my appointment. The location is perfect with lots of parking spaces right outside the front of the clinic which is a huge convenience. I highly recommend Dr. Ann and plan to continue my visits as part of my long term preventative health care plan.” <br>
+              — Claire G.</p>
+
+
+
+            </div>
+
+
+        </section>
+          <hr class="bottom-page">
+    </div>
+
+
+
+  <!-- Footer page -->
+<!--#include file="footer.shtml" -->
+
+
+
+    <br>  <br>
+
+    <!-- Need both of these js files to make toggle for dropdown menu to work as screen shrinks -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

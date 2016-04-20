@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Active for mobile view -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Alameda Family Chiropractic</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <!-- browswer icon -->
+    <link rel="shortcut icon" href="images/avatar-icon.png" type="image/x-icon" />
+
+</head>
+
+<body>
+    <div id="wrapper" class="container">
+      <!-- Header page -->
+      <!--#include file="header.shtml" -->
+
+        <section class="main-content">
+            <div class="col-sm-12" class="container">
+
+                <div class="front-page-image">
+                    <img src="images/dr-eddy-chiropractor.jpg">
+                </div>
+                <br>
+                <h2 class="entry-title">Welcome to Alameda Family Chiropractic </h2>
+
+                <h1 class="entry-summary">Dr. Ann E. Wilson provides thoughtful, gentle, effective chiropractic treatments for the entire family and extraordinary care for motor vehicle accident / work injuries. Life is short! Why not feel great?</h1>
+
+
+                <p>Perhaps you have been injured or you have just had enough of your aches and pains, fatigue and frustration. You’re looking for an experienced, knowledgeable and compassionate physician who listens to you carefully and who will go the extra mile for you—someone who understands your complaints and also respects the wisdom of your body as it seeks to be restored and refreshed using gentle, natural therapies. Frankly, you are hoping for something better—something more than a prescription for what ails you. You just want to feel good again, maybe even GREAT again. </p>
+
+                <p>You have come to the right place. I have been that physician for hundreds of patients like you over the last 20 years. Regardless of what brings you to my chiropractic office—whether you are a ‘weekend warrior’ or you have a more serious injury caused by a motor vehicle crash or whether you just understand the value of a thorough ‘tune up’ in order to feel your best and to function at your highest level—I welcome you to my practice!</p>
+
+                <p>I have been a long-term chiropractic patient myself, having been badly injured more than once. A head-on collision in 1985 left me wondering if I would ever return to having a normal body, much less a normal and satisfying life again. The skilled hands of a seasoned chiropractor restored my hope for recovery, helped me put my body back together again, and ultimately inspired me to pursue chiropractic studies. I have been joyously “paying it forward” ever since. I have never lost the initial fire or passion that compelled me to take such an unexpected path.</p>
+
+                <p>So what are you waiting for? <br>
+                Have faith in your body’s ability to heal and be restored to balance, ease and comfort. I invite you to reach out, contact my office and take that first step. What do you have to lose? The only person I cannot help is the one who does not ask for help. </p>
+
+
+            </div>
+
+        </section>
+
+          <hr class="bottom-page">
+    </div>
+
+
+
+  <!-- Footer page -->
+<!--#include file="footer.shtml" -->
+
+
+
+    <br>  <br>
+
+    <!-- Need both of these js files to make toggle for dropdown menu to work as screen shrinks -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>
